@@ -1,0 +1,8 @@
+prefix=/home/viki/catkin_ws/devel
+
+Name: my_turtle_whitcomb
+Description: Description of my_turtle_whitcomb
+Version: 0.0.0
+Cflags: -I/home/viki/catkin_ws/devel/include -I/home/viki/catkin_ws/src/my_turtle_whitcomb/include
+Libs: -L/home/viki/catkin_ws/devel/lib -lmy_turtle_whitcomb
+Requires: message_runtime roscpp rospy std_msgs
